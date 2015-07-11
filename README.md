@@ -1,8 +1,9 @@
 Coding Challenge
 ===========================================================
 
-Language:	Python 3.4.3
-OS:		Mac OSX 10.10.4
+Language: Python 3.4.3
+
+OS:       Mac OSX 10.10.4
 
 ## Additional Extensions Used
 
