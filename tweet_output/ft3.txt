@@ -1,0 +1,13 @@
+Top 10 Most Frequently Used Words:
+
+Word                 Number of Occurrences
+
+the                  568
+of                   367
+is                   220
+to                   215
+and                  201
+a                    178
+that                 155
+in                   126
+thermodynamics       112

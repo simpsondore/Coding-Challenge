@@ -1,0 +1,575 @@
+is #bigdata finally the answer to end poverty? @lavanyarathnam http://ow.ly/o8gt3 #analytics
+interview: xia wang, astrazeneca on #bigdata and the promise of effective healthcare #kdn http://ow.ly/ot2uj
+big data is not just for big business. on how #bigdata is being deployed for small businesses: http://bddy.me/1bzukb3 @cxotodayalerts #smb
+specifically, list and explain the axioms in detail, compare them in detail to show differences and similarities, advantages and disadvantages,
+ways that they lead to the development of the theory of thermodynamics, 
+their scientific rigor and consistency  any loopholes? , their capacity to make general thermodynamics understandable,
+their capacity to make engineering applied thermodynamics understandable, and other aspects.  when callen, and
+earlier his professor tisza  generalized thermodynamics by laszlo tisza, 1966, 
+came out with this type of axiomatic approach, there were several published studies about different axiomatic approaches
+mostly in physics journals.  these must 
+be found and studied, and all publications since then should be found and included in the project.
+we also discussed topics such as the importance of in the development of the 
+axiomatic approach, the fact that callens postulates do not include the conservation of energy, and that the
+laws of thermodynamics do not include reference to equilibrium.
+since the development of the steam engine and the start of the industrial revolution, the science
+of thermodynamics has rapidly developed into one of the most fundamental disciplines
+in the study of engineering. thermodynamics is integral to the design of power plants,
+automobiles, and even electronics. since carathedory
+first developed the axiomatic approach to thermodynamics in 1909, there has been an abundance of research into this mathematical
+formulation since the second half of the 20th century. many
+different axioms have been suggested with each leading to alternative methods to derive the theory of thermodynamics. the goal of each approach is to
+maximize pedagogical and heuristic value.
+in this paper, two of the most prominent approaches to axiomatic thermodynamics were considered callen and tisza gibbsian
+thermodynamics  and the modern engineering approach
+taken by cengel and boles and moran et al. which is based upon  classical thermodynamics  originally developed by carathedory. for each approach, 
+the axioms were stated and described in detail with considerations to their scientific rigor and the way they lead to the development of the theory of thermodynamics. 
+comparisons were made on the method s capacity to make thermodynamics 
+understandable and conclusions were validated by comparison with peer reviewed articles. it is 
+concluded that callen s approach leads to a uniquely elegant formulation of classical 
+thermodynamics. it is essentially a physicist s approach that requires a strong understanding of mathematics.
+for the student who already has some familiarity with 
+thermodynamics, much can be learned from callen s approach. beginners to thermodynamics will favor the modern engineering
+approach formulated by cengel and boles and moran et al. this is 
+more intuitive as variables and equations are linked to physical 
+properties and engineering systems wherever possible. the difference between the two approaches ultimately lies between the axioms that are used. introduction
+the word thermodynamics stems from the greek word therme  heat  and dynamis  power   
+1. this is descriptive of the early efforts to convert heat into power. the development of 
+thermodynamics as a science is closely related to the development of atmospheric steam engines 
+and the industrial revolution. the first successful steam engines were built by thomas savery in 1697, and by thomas newcomen in 1712
+these engines were slow and inefficient but they created an opening for a new branch of science. 
+the science of thermodynamics has since developed into a branch of physics that describes processes in which temperature changes 
+play an important role. these processes involve the transformation of energy from one form to 
+another or the transfer of energy from one system to another  2 . thermodynamics details the laws that govern such transformations 
+and transfers of energy. the scope of thermodynamics is extremely broad, and the derived theory also applies to many other branches of science. thermodynamics describes interactions between 
+energy and matter, thus it is hard to imagine an area that 
+does not relate to thermodynamics in some form. for this reason, thermodynamics has become one of the most essential parts of an engineering education.
+thermodynamics is encountered in almost every engineering system and many aspects of 
+life. even the human body is a thermodynamic system. 
+we humans can be thought of as very complex combustion engines, which take in fuel 
+food  and oxygen to create energy  by atp   1 .
+various energy conversions occur in trillions of body cells, all of which are governed by the 
+theory of thermodynamics. other applications are more obvious. many household utensils and appliances are designed using the principles of thermodynamics
+examples include the heating and air conditioning systems, the refrigerator, the oven, the shower, and even electronics such as 
+computers and tvs. most buildings are built with a deliberation of thermodynamics consider insulation, thermal expansion, positioning of windows,
+and more complex examples such as skirkanich hall. on a
+larger scale, thermodynamics
+plays an integral role in the design of power plants, internal combustion engines and jet engines. 
+thermodynamics has been used to optimize these designs, increasing efficiency and reducing fuel
+consumption and emissions. many feats of engineering would be impossible without the theory of thermodynamics.
+before delving into the discussion 
+of axiomatic approaches to thermodynamics, it is useful to understand what exactly an axiom is 
+in respect to thermodynamics. most frequently, the axioms of thermodynamics are known as the laws of thermodynamics. an axiom can be defined as a 
+statement or proposition that is considered as being accepted, established, or self evidently true. 
+an axiomatic system is a group of statements that are the starting elements of a mathematical 
+project such as the theory of thermodynamics  3 . in respect to thermodynamics, axioms are 
+treated as mathematical propositions that are accepted without proofs.
+they can be geometric, logical, and arithmetic. the word  postulate  can also be used as a 
+synonym for axiom. it is essential to note that the axioms  postulates or laws  of thermodynamics cannot be directly and completely verified by suitable experiments. The
+accuracy of the axioms of thermodynamics is proven by inference. that is, the theory that has 
+been derived from these axioms has yet to be disproved by experiment  4 . the principles 
+embodied in the axioms
+of thermodynamics and the theory that is derived from them influence many engineering systems and appliances.
+almost every engineering student has heard of the zeroth, first, second and third law of 
+thermodynamics. however, most are unaware that these are not the only axioms that can  and 
+have been  used to develop the theory of thermodynamics. this paper aims to describe the 
+background to axiomatic thermodynamics and then compare and contrast two different sets of 
+axioms. this comparison will compare the scientific rigor of the axioms and their capacity to 
+make thermodynamics understandable. 
+no paper has been published with the sole purpose of comparing these two popular 
+approaches in such detail. furthermore, 
+there has been very few papers published that aim to review axioms without attempting to define novel formulations. 
+the first axioms of thermodynamics emerged in the 1850s. 
+these axioms ultimately became known as the first and second laws of thermodynamics and were derived by the works of william rankine, lord kelvin
+and rudolph clausius. lord kelvin first used the term
+thermodynamics in a publication in 1849, and william 
+rankine wrote the first textbook on thermodynamics in 1859  
+both kelvin and rankine were professors at the university
+of glasgow, scotland. although the first axioms had been developed, the approach to 
+thermodynamics was not considered axiomatic since the method for the development and teaching of
+thermodynamic theory was built around the consideration of imaginary cycles and 
+the flow of heat
+constantin carathedory proposed the first axiomatic approach to thermodynamics in 1909  
+unlike previous methods, carathedory s approach was centered on a rigorous mathematical 
+formulation of his proposed  second law of thermodynamics   an elementary version of the 
+current law that we all have come to know . carathedory s approach is summarized as a 
+mathematical reformulation of the work by kelvin and
+clausius  6 . the mathematics of his approach was centered
+on the geometric behavior of pfaffian differential equations 
+and their solutions. although carathedory mathematically formulated the theory of 
+thermodynamics, his proposed laws of thermodynamics, like any laws of physics, could not be 
+mathematically derived. partially for this reason, carathedory s axiomatic approach was met with 
+fierce criticism and it took many years for his approach to 
+become as widely accepted as it is today  4 . 
+carathedory s original paper states several definitions
+and axioms. the definitions will not be discussed in this paper it is assumed that the reader is 
+familiar with thermodynamic terminology. carathedory introduces his first axiom regarding the 
+variation of internal energy of a multiphase system that experiences external work by an adiabatic process
+he then goes on to state his much debated second axiom
+axiom ii. in any arbitrary neighborhood of an arbitrarily given initial point there is a state that cannot
+be arbitrarily approximated by reversible adiabatic changes of state. 
+as would be expected from nature, axiom ii infers that work cannot be fully recovered. it should 
+be noted that these two axioms are similar to the first and second laws of thermodynamics. 
+carathedory used these two axioms to derive the kelvin temperature scale followed by the usual 
+statements of thermodynamic theory  5 . part of what made carathedory s approach so 
+revolutionary was that there was no mention of temperature, heat, or entropy. these are all 
+derived quantities with heat and entropy appearing once the adiabatic restraint is removed  7 . 
+considering energy instead of heat is beneficial from a physical and mathematical point of view since energy is conserved and not heat. the symmetry that is 
+maintained by considering these properties allowed carathedory to use the novel methodology based on pfaffian equations  7 . 
+carathedory s revolutionary approach wasn t of 
+significant interest to the scientific community for over a decade. it was 
+in 1921 when m. born wrote three important articles on the axiomatic approach that it caught the attention of the well
+known physicists of that time  4 . even then, much
+of the scientific community was reluctant to adopt the method and instead 
+viewed it as in interesting curiosity. carathedory s approach even brought strong 
+criticism, most notably from m. plank. plank criticized carathedory s approach 
+for failing to provide a compelling physical picture of the entropy. plank also felt that axiom ii 
+was overreaching  4 . in his words,  nobody has tried to reach every neighborhood of any 
+equilibrium state by adiabatic steps to determine if they are
+gives us no hint which would allow us to differentiate between the inaccessible from the accessible states the mathematical
+complexity involved with carathedory s approach also prohibited wide scale adoption  6
+many other physicists followed born in an attempt to develop the axiomatic approach to 
+thermodynamics. notable authors included buchdahl, pippard, boyling  3 , sears, turner, 
+landsberg and even planck many textbooks were also written with different developments 
+and different approaches to simplify the mathematics. Others
+authors such as laszlo tisza  8 , and later h. callen adopted the 
+axiomatic approach but developed it with their own axioms that 
+are significantly different. in his 1966 textbook, and again in his 
+1970 paper tisza sought to generalize thermodynamics by laying out a different set of 
+axioms. when creating his postulates, he took inspiration from statistical mechanics, which had 
+been generalized in a similar way  9 . some years later, these alternative axioms were adopted by callen and popularized by his 1985 text
+callen and tisza s approach has been referred to as gibbsian thermodynamics since the fundamental equation that it is based 
+upon can be traced back to gibbs  11 . thus there are two prominent axiomatic approaches to thermodynamics  gibbsian thermodynamics  and  classical thermodynamics 
+based upon carathedory s approach  12 . other approaches were also developed, such as ulises
+mouliness  neo gibbsian  formulation, but these were never widely adopted  11
+entropy formed a major part of the discussion of thermodynamics. the exact definition of 
+entropy used, and the way in which that author wishes to present it affects their choice of 
+axioms. in traditional interpretations of thermodynamics
+entropy is defined in terms of heat, where the concept of heat is developed from considerations 
+based on mechanics  13 . for example, heat has been described as a form of energy related to the 
+jiggling motion of atomic particles, thus essentially describing heat as a form of kinetic energy  13 . even tisza  8  argued in
+favor of opaque statements such as  heat is motion  by claiming that 
+they aid the understanding of the topic. there are 
+several problems with these understandings of 
+entropy and heat. first, work and heat are not 
+stored in a system whereas entropy is. heat and work are simply modes of transfer of energy. second, by using concepts of mechanics to define 
+the notion of heat, and in turn using heat to define entropy inherently links entropy to mechanics. this is problematic since entropy defines several results 
+about energy availability that contrast with mechanics  13 . however, 
+the most important issue is that heat is a mode is a mode of energy  and entropy  transfer between systems that is only valid for systems that are very 
+close to equilibrium. even the equation applies only to quasi static  slow, approximately always at equilibrium  processes.
+therefore, a definition of entropy that is based on heat is only valid at equilibrium. gyftopoulos and beretta  14  have shown that this definition of entropy 
+is unnecessarily restrictive, since entropy is a thermodynamic property that must extend to the non equilibrium
+domain. other authors such as lieb disagree, and consider a definition of entropy 
+that is strictly tied to equilibrium states to be sufficient  7 . 
+in their 2005 textbook  15 , gyftopoulos and beretta highlighted the importance of entropy 
+by a definition that does not include heat. it was found that entropy was monotonically related to 
+the difference where e is the energy of the system above the lowest energy state  similar to 
+exergy, or maximum available work  and is the adiabatic availability of the system  the 
+maximum work the system can output in a process that generates no additional effects   15 . it 
+was also pointed out by hatsopoulos and keenan  16  that without the second law of 
+thermodynamics, heat and work would be indistinguishable. it is one of the most important
+discoveries of thermodynamics that this property called entropy, which was first discovered by clausius in 1854  1 , is actuality a property of matter.
+with such an abundance of literature, 
+it is unfeasible to analyze each approach in detail. modern textbook sales are dominated by well known authors such as moran et al.  17 , cengel and boles  1 , 
+and borgnakke and sonntag. the fundamental treatment of the theory 
+differs much less between these modern textbooks than it did in the 1960 s  
+1980 s when the theory was still being refined. in addition to introducing, explaining 
+the axioms used by a range of these textbooks, this essay aims to specifically compare two 
+approaches  one old, one new . the examples considered are callen, 1985  10 , moran et al., 2014  
+17 , and cengel and boles, the axioms that are discussed in this section were developed from tisza
+original alternative axioms  8  9 . callen s purely mathematical formulation that was based on 
+his four postulates  axioms  became highly regarded in the scientific community
+postulate i. there exist particular states   called equilibrium states   of simple systems that, 
+macroscopically, are characterized completely by the internal energy u, the volume v, and the 
+mole numbers by observation of nature, it can be concluded that all systems tend to progress towards 
+states in which the properties are determined by intrinsic factors, and not by previously enforced 
+external constraints these terminal states are time independent by definition. such states are 
+called equilibrium states. postulate i leads to the basic problem of thermodynamics 
+the single, all encompassing problem of thermodynamics is the determination of the 
+equilibrium state that eventually results
+after the removal of internal restraints in a closed, composite system
+all problems in thermodynamics are, in one way or another, derivatives of this basic problem.
+postulate ii. there exists a function   called 
+the entropy s   of the extensive parameters of any composite system,
+defined for all equilibrium states and having the following property the values assumed by the 
+extensive parameters in the absence of an internal constraint are those that maximize the entropy 
+over the manifold of constrained equilibrium states
+a key point to postulate ii is that it clearly states 
+that entropy is defined over equilibrium states but makes no 
+reference to non equilibrium states. this subtle choice of wording means that the
+thermodynamic theory that is developed is based only around equilibrium positions.
+in the absence of constraints, a system is free to settle at any
+number of equilibrium positions, each of which will have varying thermodynamic parameters
+postulate ii tells us that the selected state will be that which 
+maximizes the entropy. this is an introduction to the extremum
+principle for equilibrium criterion, which agrees with physical expectations but also simplifies mathematical functions
+when calculating the extensive parameters for an equilibrium state, we 
+simply select the values that maximize the entropy function. postulate ii 
+allows the fundamental relation of a system to be defined by the extensive parameters x
+for a single component system, this is given 
+in terms of the internal energy u, volume v and number of moles n
+it follows that if the fundamental relation of a particular 
+system is known then all conceivable thermodynamic information can be obtained from it. the 
+fundamental relation fills an integral role in callen s development of classical thermodynamics. 
+postulate iii. the entropy of a composite system 
+is additive over the constituent subsystems. the entropy is continuous and differentiable and
+is a monotonically increasing function of the energy  10 .
+several mathematical consequences are derived from postulate iii. the additive property
+states that the entropy of a system is the sum of the entropies of the constituent subsystems for spatially separate
+subsystems, the additive property requires that the entropy is a homogenous first order function. if the extensive parameters 
+of each subsystem were multiplied by a constant lambda, the entropy must also be multiplied by lambda
+this is a useful restriction on the fundamental relation. the fact that the entropy must always be an increasing
+function of the energy implies that the partial derivative must be positive
+the continuity, differentiability and increasing properties of entropy with respect to the energy imply that the fundamental relation can be
+inverted to give the energy as a function of the extensive parameters
+this is an alternative form of the fundamental relation. we will explore these mathematical consequences in chapter 5. 
+postulate iv. the entropy of any system vanishes in the state for which
+callen s fourth postulate is not used 
+until the end of the text, after most of the theory of thermodynamics has already been developed. 
+postulate iv was first formulated in 1907 by walther nernst, stating simply that the entropy 
+change in any isothermal process approaches zero as the temperature approaches zero. unlike the 
+other three postulates, callen s fourth postulate is very similar to one of the axioms used by the 
+majority of other textbooks  2  16 . that axiom is the third law of thermodynamics. 
+the significance of nernst s theorem is that it allows the determination of the absolute 
+entropy of every substance including elements and compounds, and these entropy values are all 
+linked to a common base  1 . the change in entropy of a substance between absolute zero and any 
+given state can be determined from precise measurements of energy transfers and specific heat data or from observed molecular data  17 . this is 
+particularly convenient for analyzing chemical reactions.
+the four postulates are designed to provide the simplest conceivable
+formal solution to the basic problem. the rigorous axioms are purely mathematical and make no 
+reference to heat, engines or system. this physicist s approach leads to a uniquely elegant 
+formulation of thermodynamics  7 .
+an issue with callen s approach, as was also pointed out by carathedory s critics  4 , is that 
+it fails to provide a compelling physical picture of the entropy. callen s clever introduction of 
+entropy as a hypothetical function in postulate ii distracts from this lack of explanation, and 
+makes for a smooth and easy to accept introduction of entropy.
+differentiation of the fundamental equation 
+with consideration of postulate iii leads to pfaffian equations, which are
+the same equations that carathedory used to formulate thermodynamics  3 . the mathematical consequences of postulate iii are key to this approach. 
+a loophole to callen s postulates is that they make no reference conservation of energy. it is therefore
+assumed  that the reader is already aware of this basic axiom. for purposes of 
+scientific rigor and completeness, it would have been beneficial for callen to add a postulate v 
+that states the conservation of energy. callen may have reasoned that by appending this additional
+postulate that is very similar to the first law of thermodynamics, his approach would 
+become too similar to other approaches. with the exception of the fourth postulate, callen s 
+postulates are each very different from the laws of thermodynamics, which we will now 
+introduce since the laws of thermodynamics were 
+first invented by clausius and kelvin, many alternative wordings have been suggested. it is 
+important to clarify that this discussion of the laws of thermodynamics is primarily based upon 
+the fundamentals of engineering, 8th edition  moran et al.   17  and thermodynamics an 
+engineering approach, 7th edition  cengel and boles   1 , although reference is also made to other 
+textbooks and scientific papers.
+zeroth law of thermodynamics. if two 
+objects are at thermal equilibrium with a third object, they are in thermal equilibrium with one another  1 . 
+the logical content of the zeroth law is 
+somewhat trivial. such hypothetical states as described by the zeroth law are assumed to be reached after
+a system has been isolated for a sufficient length of time, without the presence of 
+adiabatic walls to hinder thermal equilibrium  16 . with the statement of the zeroth law, it is 
+implicit that the temperature of the systems is uniform throughout. the zeroth law is thereby 
+frequently used to derive temperature. however, it is not until the second law is introduced that 
+the measurement  and district zero  of temperature can be defined. 
+first law of thermodynamics. the change in internal energy of a
+closed system is equal to the net amount of energy transferred into the system across
+the system boundary by heat, minus the net amount of energy transferred out of the system boundary by 
+thereby, the law requires that no energy 
+can be created or destroyed by an isolated system. the first law deals with the amount of energy  
+in all of its various forms  that is involved in a process. it does not specify the direction of 
+change. the first law does not deny the possibility of impossible processes such as the free flow 
+of water uphill or the direct flow of temperature from a cool to a warmer body  1 . this is left to 
+the second law of thermodynamics.
+many different variations of the first law exist. the equivalence
+between equation 4.1 and carathedory s original axiom defined in equation 2.1 should be observed
+another interpretation is given by chue  18 , who stated,  
+when a system executes a cyclic process, the algebraic sum of the work interaction is 
+proportional to the algebraic sum of the heat interaction . chue also presents the law mathematically as
+where the integral sign represents a cyclic integral, 
+and the symbol is used to indicate that the differential is path dependent  18 . the equivalence 
+between equations 4.1 and 4.3 can be shown by considering a cyclic process that starts at state a 
+and ends at state a. integration of equation 4.1 across all of the intermediate states will result in
+he first law as described by equation 4.1 has been adopted by modern thermodynamics 
+textbooks likely because it does not require any differentials, integrals or thermodynamic 
+definitions that are difficult to visualize. 
+the second law is by far the most heavily debated of the four laws of thermodynamics. 
+this is reflected by the fact that moran et al. presents three versions of the second law. the first of 
+which is the clausius statement of the second law.
+lausius statement of the second law. it is impossible for any system to operate in such a way that 
+the sole result would be an energy transfer by heat from a cooler to a hotter body  17 . 
+the clausius statement is the most 
+intuitive of the three alternative versions of the second law. the words  sole result  are key in this 
+statement. heat pumps and refrigerators transfer energy from a cooler to a hotter body but with 
+an intermediate process. the clausius statement implies that it is impossible to operate a 
+refrigeration cycle without any work input. rudolph clausius used this observation to identify 
+entropy as a thermodynamic property  1 .
+kelvin planck statement of the second law. it is impossible for any thermodynamic system to 
+operate in a thermodynamic cycle and deliver a net amount of energy by work to its surroundings 
+while receiving energy by heat transfer from a single thermal reservoir  17 . 
+it is important to note that the kelvin planck 
+statement does not rule out the possibility of a system developing a net amount of work from a 
+single heat source. this would deny a simple piston or a cylinder in an internal combustion 
+engine from generating work. the kelvin plank applies only to systems that undergo 
+thermodynamic cycles. 
+the equivalence of the clausius statement
+with the kelvin planck statement is demonstrated by showing that the violation each statement 
+implies the violation of the other. figure 1 which shows a hot reservoir, a cool reservoir, and two 
+systems is used to demonstrate this equivalence.
+the system of the left receives heat from the cold 
+reservoir and transmits it to the hot reservoir this is an obvious violation of the clausius 
+statement. the second system draws heat from the hot reservoir and emits heat to the cool 
+reservoir undergoing a thermodynamic cycle that produces work. this is an acceptable cycle. now 
+consider the dotted line that defines the combined 
+cycle. the two subsystems and the cold reservoir can be considered a
+combined cycle because the cold reservoir and the
+system on the left experience no net change in their conditions  17  only the system on
+he right undergoes a cycle. the combined system receives net heat from the 
+hot reservoir and outputs this is a violation of the kelvin planck statement and thus the equivalence has been proven. similar reasoning can be
+used in reverse to demonstrate that a violation of the kelvin planck statement violates the 
+clausius statement  17 . this equivalence has been well studied and has been proven by many 
+articles  4 cengel and boles use the second law to introduce entropy by stating that energy has both 
+quantity and quality the second law is
+then used to describe entropy as a property 
+that represents the unavailability of a system s thermal energy for conversion into mechanical work. 
+entropy is also often described as the degree of disorder or
+randomness in the system  1 . moran et al. also chose to present a third statement of the second 
+law, one which is based directly on the entropy  17 . this leads to the introduction of entropy as a 
+thermodynamic property to the text. 
+entropy statement of the second law. it is impossible for any system to operate in a way that entropy is destroyed. 
+the entropy statement of the second law is unique 
+in that it is the only statement that specifically mentions entropy as a thermodynamic property.
+traditionally, the entropy statement is derived from the other statements of the second law
+this version of the second law of thermodynamics is more aligned with callen s entropy 
+maximum statement  postulate ii
+he concept of reversibility is closely related to the second law. a reversible process is one 
+where the system and its surroundings can be restored to their respective initial states. the 
+clausius and kelvin planck statements of the second law clearly indicate the directions of possible 
+changes. it is impossible for any process to counter these directions. thus, if the hypothetical 
+reversal of a process is found to contradict the clausius 
+or kelvin plank statements of the second law, the process is said to be irreversible. this also applies to the entropy
+statement of the second law, where we can deduce that the condition
+for a reversible process is one in which no entropy is generated. by analysis of these statements
+it is obvious that the transfer of heat between systems with a finite
+temperature difference is irreversible, since the reversal of the process 
+will violate the clausius statement. similarly, the kelvin plank statement 
+tells us that the process of turning work into heat, for example by the brakes of a car, is also irreversible. many textbooks  2  16  18  also
+include a formal proof of irreversibility that is discussed in chapter 5. 
+countless alternate versions of the second law are given 
+in scientific papers and textbooks  3  5  6  7  8 . macdonald 
+19  proposed one such alternative in his 1995 paper. his second law stated  it is impossible to transfer
+an arbitrarily large amount of heat from a standard heat source with processes 
+terminating at a fixed point z   19 , where z is a closed thermodynamical system. using this vague 
+statement, macdonald was able to demonstrate that in quasi static processes  19 . 
+third law of thermodynamics. the entropy of a pure crystalline substance is zero at the zero of temperature. 
+the third law is directly equivalent to callen s postulate fourth postulate. the only difference is 
+that the third law also recognizes that there is entropy related to the chemical structure of 
+materials. since the two statements are equivalent, the reader is referred to section 3.4 for 
+additional discussion of the third law of thermodynamics.
+now that the second law has been introduced, it should be noted that it is impossible to 
+reach the zero of temperature. for a system to reach zero temperature, it would have to
+exchange heat with a cooler body, that is a body which is cooler than 0k which is impossible. another 
+method to arrive at this conclusion, which does not
+involve the second law, was performed by chue  18 . integrating the definition of entropy from t   0 to an arbitrary t results in
+since we know from that third law that s   0 at t   
+0. now, considering a process that undergoes a reversible adiabatic process from state a to state b
+where c is the heat capacity of the system. to reach the zero of 
+temperature, we must require 
+it is impossible to make the above integral converge to zero always positive. therefore, tb is not equal to 0 and it is
+concluded that it is impossible to 
+reach the zero of temperature in a finite number of steps. in other words, no system can ever truly reach zero entropy. 
+the modern engineering thermodynamics 
+textbook is somewhat of a combination of an advanced version
+axiomatic approach with a consideration of engines, cycles, and ideal gases that were the traditional foundations of the engineering approach. one of many 
+advantages to this method is that it is easier to follow for students that are new to 
+thermodynamics. furthermore, the approach taken by moran et al. is based more upon 
+engineering reasoning than callen. in section 4.3, the discussion on the equivalence between the 
+clausius statement and the kelvin plank statement involving figure 1 involves engineering 
+reasoning that would not be found in callen s text. 
+the treatment of heat as a thermodynamic property early on is another interesting 
+difference between the two approaches. this is evident in both cengel and boles and moran et al.  
+it is interesting to note that in the textbook by moran et al., the theory is developed with 
+little reference to equilibrium states  17 . equilibrium states are introduced at the start of the text 
+but the important of them is not stressed as it is with callen s approach. this difference can also 
+be observed from the axioms used. the 
+laws of thermodynamics make no reference to equilibrium 
+while the importance of equilibrium states is callen s first postulate. 
+a reason for the general omission of equilibrium states may be that moran et al. felt it might confuse the reader.
+to explain the necessity for equilibrium states,
+a discussion on stability of thermodynamic systems is required  as callen 
+includes in chapter 9 . the 
+discussion on stability may be too mathematically and logically complex for the casual reader.
+now that the axioms have been introduced, explained, and discussed, it is useful to 
+understand how they are used to develop some important elements of the theory of 
+thermodynamics. classical thermodynamics is developed in its entirety with the use of these few 
+axioms. almost every textbook and paper that was published in the mid late 20th century used 
+slightly different axioms to develop the
+theory by slightly different methods hence there is an abundance of different approaches. for reasons of consistency, this discussion will again 
+focus on contrasting the approach used by callen  10  with that of moran et al.  17  and cengel and boles  1 .
+alternative axioms lead to an interesting derivation of temperature  10 . from 
+postulate i, we have the fundamental equation which describes a system at equilibrium in terms 
+of the extensive parameters computing the first differential gives
+the partial derivatives in the above equation are the intensive parameters. the following symbols are suggested for each of them  10 
+we already know from our analysis of postulate iii that
+the partial derivative of entropy with respect to energy   deltas   deltau is a positive quantity  10 . 
+therefore, t must also be a positive quantity. to further explore this derivative and prove that  t  
+conforms with many of our expectations of temperature, we consider an example which exposes 
+several implications of callen s postulates. consider a closed 
+composite system consisting of two simple systems separated by a wall that permits the flow of heat but is rigid and impermeable to matter. the volume and mole numbers 
+of the two subsystems are thereby fixed, but the internal energies u 1  and u 2  are free to change 
+subject to conservation of energy
+using postulate iii to add the entropy of the two subsystems
+with constant volume and mole numbers, the first derivative becomes
+by conservation of energy  equation 1.1 , we have
+substituting equation 5.6 and the equation for t into equation 5.5, we have
+assuming that the system has come to equilibrium, we know from
+postulate ii that the entropy will be at a maximum. any transfer of energy by heat from system 1 
+to 2 will be infinitesimally small and assumed quasi static resulting in ds   0. therefore
+it is concluded that the condition for equilibrium is that t 1  
+this agrees with our notion of temperature.
+next, the approach taken by moran et al. and cengel and boles is considered. this 
+approach is based upon engineering reasoning. consider two copper blocks and consider that our 
+senses tell us that one is warmer than the other  17 .
+if the blocks were isolated from their surroundings and brought into contact, heat transfer 
+would occur. observable properties such as volume and electrical resistance would
+change in the two blocks until they reached a constant. at this point, the copper blocks are said to be in thermal 
+equilibrium with each other  17 . considerations such as this lead
+us to determine that there must be a physical property that determines whether the two blocks 
+are in thermal equilibrium. this property is called the temperature. the zeroth law of thermodynamics is often used in this discussion 
+if two objects are each in thermal equilibrium with a thermometer then the two objects must 
+be at thermal equilibrium with each other. it is then concluded that the two objects are at the 
+same temperature. 
+both approaches use the same reasoning
+to conclude that the temperature scale must have a definite zero. by considering the carnot efficiency
+it is concluded that the ratio of the temperatures   tc   th   must 
+be measurable, therefore temperature must be on a set scale with a specific zero  1  10  17 .
+the gibbs duhem relation is one of the equations derived in the theory of thermodynamics. 
+every textbook has it somewhere, but the method by which it is derived highlights the elegance 
+of callen s approach. from postulate iii it is known that the fundamental equation is a first order 
+function. in energy form we have  10 
+for any constant lambda and extensive parameters xj. differentiating with respect to lambda
+for the specific case where lambda   1, equation 5.12 becomes
+where pj represents the intensive parameters such as pressure, temperature, and chemical potential. for a single component system, equation 5.13 becomes
+equations 5.13 and 5.14 are known as the euler relation. taking infinitesimal variations of equation 5.13, the derivative is
+recall equation 5.2. this can be written as
+subtracting equation 5.16 from equation 5.15 returns the gibbs duhem relation  10 
+for a single component system, this becomes
+thus, the equation is derived directly from the postulates with just two steps of differentiation and one subtraction. the gibbs duhem relation
+presents the relationship between the intensive parameters in differential form. 
+we now consider the approach taken by moran et al. first, the partial molal gibbs function is defined  17 
+where ?i is the chemical potential of the ith component. it should be noted that equation 5.19 is just the complete differential of 
+the gibbs potential with constant temperature and pressure. this can be re written as
+taking the differential
+the complete differential of the gibbs function is given by
+subtracting equation 5.20 from 5.21 gives the gibbs duhem equation  17 
+the equivalence between equation
+and equations 5.17 and 5.18 should be observed. callen s method
+based directly from his postulates, while moran 
+et al. use the definition of the gibbs potential. the second approach requires more
+empirical statements, but it may be easier for a reader who is uncomfortable with mathematics.
+reversibility  and irreversibility  is a key consideration of thermodynamics with profound effects 
+on engineering  1 . an irreversible process leads to the generation of entropy, and a reduction in 
+thermodynamic efficiency. callen s postulates lead to a lucid discussion of reversibility. to aid 
+this discussion, callen introduces the thermodynamic configuration space  10 . figure 2 shows
+system. the surface shown in figure 2 is defined by the fundamental equation of the system 
+of postulate i, each point on the configuration space represents 
+an equilibrium surface. any point that is not on the surface is not at equilibrium and is therefore 
+not defined by the theory of classical thermodynamics. the surface of figure 2 conforms with the 
+requirement that deltas requirement that u is a 
+single valued function of all extensive parameters is also satisfied. 
+the concept of the thermodynamic 
+configuration space can be expanded to a composite system by considering the extensive 
+parameters of both systems. this is illustrated by figure 4, for one component  k  and another  j   
+the entropy for the composite system is now plotted as a function of extensive parameters of 
+the two subsystems. 
+the arbitrary curve drawn on the 
+hyper surface of figure 4 represents a quasi static process from state a to state h. a quasi static 
+process is one that can be formed from a dense succession of equilibrium states  10 . real 
+processes involve deviations from equilibrium which cannot be represented by the 
+thermodynamic configuration space. the quasi static process 
+drawn in figure 4 can be considered an approximation of
+a real process. for example, after departing state a, the system
+disappears from the surface before reappearing at state b. the identification of t ds as heat transfer and ?p dv as work are based upon quasi static processes 
+14 . according to the entropy maximum statement 
+postulate ii , all such processes must proceed in a direction that maximizes entropy  10 . the 
+process drawn in figure 4 is irreversible because for
+the process to travel in reverse linking state h to state a would require a reduction in entropy. such process would violate postulate ii.
+a quasi static process in which the increase in entropy becomes vanishingly small is 
+known as a reversible process  10 . such a process is illustrated in figure 5. the process is free to 
+reverse from state b to state a without violating postulate ii. the fundamental equation  postulate i  
+combined with the entropy maximum statement 
+postulate ii  logically leads to the creation of these thermodynamic configuration spaces that are especially easy to visualize.
+the approach to defining reversibility taken by
+cengel and boles and by moran et al. follows reasoning from the second law of thermodynamics. 
+this is discussed in chapter 4.3
+callen s postulates lead to a physicist s 
+approach to thermodynamics. the formulation is very elegant but it requires a strong 
+mathematical background. callen succeeds in making the thermodynamic theory seem very 
+simple. almost the entire theory can be derived by taking the postulated fundamental equation, 
+and performing operations of differentiation and simple substitutions. a student who is taking 
+their second course in thermodynamics will gain most out of reading callen s approach since they 
+are already familiar with the basics. callen s text will increase their understanding of the origins  
+and hence overall understanding  of equations. 
+the modern engineering textbooks 
+such as moran et al. and cengel and boles are more intuitive. for example, when following a 
+derivation, variables are constantly linked to physical properties instead left in their differential 
+form. this is easier to follow for the casual student.
+a striking difference between the new textbooks  1  15  17  and the 
+older textbooks  2  8  10  16  18  is that the new texts include many more examples and 
+problems. the older texts such as callen focus more on derivations and understanding. the 
+learning benefit of this depends on the reader. specific students will learn best by following 
+examples while others will appreciate hypothetical reasoning. certainly however, the multitude 
+of examples given in cengel and boles and moran et al.
+will enhance the readers understanding of engineering thermodynamics. this is a problem with 
+callen s text. the reader can greatly increase their understanding of the theory of thermodynamics 
+but learn little about engineering problems.
+a problem with the modern engineering
+textbooks  1  17  is that they have attempted 
+to become all encompassing. by defining an excessive number of equations and symbols
+they succeed in over complicating basic concepts. furthermore, excessive cross referencing to these 
+equations makes reading the text arduous and confusing.
+an example of this is in chapter 7 of moran et al., where different equations were defined for 
+exergy, exergy difference, and specific flow exergy. each equation comes with new notation, resulting in an overwhelming number of equations and symbols
+for something that is a relatively simple concept. it would be sufficient
+to define the equation for exergy and leave it up to the reader to take the simple steps to
+derive the other non essential equations. there is no doubt that some students will 
+find these additional equations and examples useful as a thermodynamic reference text. however, 
+it is easier to understand the thermodynamic theory when the unnecessary information has been 
+stripped out. throughout this report, information has been sourced solely from textbooks and peer 
+reviewed articles. due to the abundance of 
+material available, the sources selected were among the best selling and most cited. 
+additional citations will, in most cases, give additional validation to the sources. it is concluded 
+the potential for error from the sources used in this paper is minimal at most. 
+since the objective of this report is 
+somewhat subjective, author bias is 
+highlighted as the main source of potential error. the author s personal feelings and preferences 
+may have translated into writing when the evidence suggests otherwise. 
+after a review of the origins of axiomatic 
+approaches to thermodynamics, two different axiomatic approaches were selected for 
+comparison. these were callen s approach to  gibbsian thermodynamics  and moran et al. and 
+cengel and boles s modern engineering approach to classical thermodynamics. the axioms used 
+in each of these approaches were analyzed at length. then, the axioms and the way that they lead 
+to the development of the theory of thermodynamics were then compared.
+callen s four simple postulates 
+lead to a uniquely elegant formulation of classical thermodynamics. the postulates themselves 
+are designed to permit a rigorous mathematical derivation. entropy is cleverly defined by 
+postulate ii, leading to a definition that is independent of the notion of heat. a possible loophole 
+arises from the omission of the principle of conservation of energy from the postulates. 
+the modern engineering thermodynamics 
+textbook such as cengel and boles  1  and moran et al.  17  is somewhat of a combination of an
+advanced version carathedory s axiomatic approach with a consideration of 
+engines, cycles, and ideal gases that were the traditional foundations of the engineering 
+approach. the axioms used are the familiar 0th 3rd laws of thermodynamics. these axioms are 
+easily understood, but the notion of 
+equilibrium states is missing from the four laws. furthermore, entropy is defined by
+a discussion of heat which unnecessarily restricts entropy to equilibrium states. 
+the two sets of axioms lead to very different derivations of the temperature scale, the 
+gibbs duhem equation, and the discussion of reversibility. both approaches have advantages and 
+disadvantages for their capacity to make
+thermodynamics understandable. it is argued that callen s textbook is better suited for a student 
+who already has basic knowledge of thermodynamics, and that callen s text is best for learning 
+about the theory of thermodynamics. the modern engineering textbooks will be better for a 
+student who is new to thermodynamics, and with the
+additional example, they are more apt to make applied engineering thermodynamics understandable.
+a recommendation for future study is to compare two older, and both purely axiomatic 
+textbooks such as callen  10  and hatsopoulos and keenan 
+16 . alternatively, one could compare two modern approaches such as moran et al.  17  with 
+gyftopoulos and beretta  15 . comparing two textbooks that were published at a similar time 
+period and that were written to appeal to the same audience would result in a discussion that is 
+solely focused on the fundamental axioms.
